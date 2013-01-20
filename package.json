@@ -3,14 +3,15 @@
 	"version": "0.0.6",
 	"description": "Binary protocol implementation for Cassandra CQL",
 	"main": "index.js",
-	"scripts":
-	{
+	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": "",
-	"author": "",
-	"license": "BSD",
+	"repository": "git@github.com:dimerica-industries/node-cql.git",
+	"author": "Isao Jonas <isao@dimerica-industries.com>",
+	"license": "MIT",
 	"dependencies": {
 		"cursor": "0.1.4"
-	}
+	},
+
+	"keywords": ["cql", "cassandra"]
 }
