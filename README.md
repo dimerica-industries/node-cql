@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dimerica-industries/node-cql.png)](https://travis-ci.org/dimerica-industries/node-cql)
+
 # WARNING - WIP
 Not production ready
 
