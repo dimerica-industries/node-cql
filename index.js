@@ -5,7 +5,7 @@ var Connection = require('./lib/connection');
 exports.connect = function(host, port, keyspace)
 {
 	var c = new Connection(host, port, keyspace);
-	c.connect();
+	c.open();
 
 	return c;
 };
